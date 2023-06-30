@@ -121,20 +121,6 @@
       </tags>
   </entry>
   <entry>
-    <title>体验ChatGPT</title>
-    <url>/posts/72a7a47.html</url>
-    <content><![CDATA[<p>在B站上，有很多体验ChatGPT的视频，还有很多QQ群友也在群里展示他们调戏ChatGPT的图片。我也很想体验这个。但是万万没想到，折腾了这么久，最后还是用一个最简单的办法实现的。所以我就想写个文档纪念一下。</p>
-<h2 id="1-直接到OpenAI官网注册账号"><a href="#1-直接到OpenAI官网注册账号" class="headerlink" title="1.直接到OpenAI官网注册账号"></a>1.直接到OpenAI官网注册账号</h2><p>首先，我直接想到了去OpenAI官网注册一个账号，就可以玩ChatGPT了。<br />但是，要是真的这么简单我就不会写文章了。<br />首先打开OpenAI官网<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/7144bcaca1dd9423.png" alt="c2881d4fd8234822bf3a9a4c840b9cc3.png"><br />然后往下滑在<strong>FEATURED一栏里找到ChatGPT</strong><br /><strong>由于我没有梯子，所以OpenAI直接提示</strong>Access denied不让进。<br />所以，这个方案pass。<img src="https://s3.uuu.ovh/imgs/2023/05/27/d837f5dd13b170d1.png" alt="b4d25f5c360e4ee1ae63c1a535de557d.png"></p>
-<h2 id="2-Github开源QQChannelChatGPT项目"><a href="#2-Github开源QQChannelChatGPT项目" class="headerlink" title="2.Github开源QQChannelChatGPT项目"></a>2.Github开源QQChannelChatGPT项目</h2><p>由于第一项ChatGPT碰壁，我好几天都没有再研究这个玩意。<br />直到有一天，我在全球最大的同性交友平台Github上发现了QQChannelChatGPT这个项目。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/82da45d2dd0b19e5.png" alt="QQ截图20230107171452.png"><br />这个东西简单来说就是通过QQ开放平台创建一个频道机器人，然后在通过python实现到OpenAI服务器的通讯。<br />但是，这玩意的README里面说如需使用这个东西需要注册OpenAI账号获取key。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/41685e2792348280.png" alt="QQ截图20230107171855.png"><br />所以，这个又进入了第一个方法的死循环，pass。</p>
-<h2 id="3-使用现成QQ频道机器人"><a href="#3-使用现成QQ频道机器人" class="headerlink" title="3.使用现成QQ频道机器人"></a>3.使用现成QQ频道机器人</h2><p>上面的项目中有一个频道的二维码，由于我不想加入并且不想在别人的频道里玩，所以这件事就不了了之。<br />但是，几天后，我在QQ开发者社区中发现了另一款机器人。我立刻把那一款机器人添加到了我的频道中。可是没过几个小时，机器人突然提示OpenAI API错误:( 原因如下：You exceeded your current quota, please check your plan and billing details. <br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/451a3a3255724cd4.png" alt="QQ截图20230107173959.png"><br />于是我赶紧使用<code>/status</code>查看设置。<br />结果，二十一个服务器全挂了。<br />但是呢，几个小时之后，服务器又恢复了。<br />虽然这个方法不稳定，但是起码还能用，所以体验成功！</p>
-<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>这年头，折腾外网的东西没有个梯子是真的不好弄了。<br />有条件的小伙伴可以自己搭建一个机器人。<br />QQChannelChatGPT开源地址：<a href="https://github.com/Soulter/QQChannelChatGPT">https://github.com/Soulter/QQChannelChatGPT</a><br />OpenAI官网：<a href="https://openai.com/">https://openai.com/</a><br />QQ开发者社区频道号：20dnumts4z2<br />有兴趣的小伙伴可以去看看。</p>
-]]></content>
-      <tags>
-        <tag>体验</tag>
-        <tag>ChatGPT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CoCo安全卫士</title>
     <url>/posts/6161a01b.html</url>
     <content><![CDATA[<p>一个鸽了很久的作品，其实实际上没卵用。<br /><img src="https://s1.vika.cn/space/2023/01/23/9ac14bca197048b0b54c3992739e1297" alt="QQ截图20230114165335.png"><br />在线体验链接：<a href="https://coco.codemao.cn/editor/player/158330969?channel=h5">https://coco.codemao.cn/editor/player/158330969?channel=h5</a><br />下载链接：<a href="https://creation.codemao.cn/434/1E0C5832BD8E4FE2ABEFD310E871CBF9/CoCo%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB.apk">https://creation.codemao.cn/434/1E0C5832BD8E4FE2ABEFD310E871CBF9/CoCo安全卫士.apk</a></p>
@@ -175,6 +161,20 @@
       <tags>
         <tag>Python</tag>
         <tag>Codemao</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>体验ChatGPT</title>
+    <url>/posts/72a7a47.html</url>
+    <content><![CDATA[<p>在B站上，有很多体验ChatGPT的视频，还有很多QQ群友也在群里展示他们调戏ChatGPT的图片。我也很想体验这个。但是万万没想到，折腾了这么久，最后还是用一个最简单的办法实现的。所以我就想写个文档纪念一下。</p>
+<h2 id="1-直接到OpenAI官网注册账号"><a href="#1-直接到OpenAI官网注册账号" class="headerlink" title="1.直接到OpenAI官网注册账号"></a>1.直接到OpenAI官网注册账号</h2><p>首先，我直接想到了去OpenAI官网注册一个账号，就可以玩ChatGPT了。<br />但是，要是真的这么简单我就不会写文章了。<br />首先打开OpenAI官网<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/7144bcaca1dd9423.png" alt="c2881d4fd8234822bf3a9a4c840b9cc3.png"><br />然后往下滑在<strong>FEATURED一栏里找到ChatGPT</strong><br /><strong>由于我没有梯子，所以OpenAI直接提示</strong>Access denied不让进。<br />所以，这个方案pass。<img src="https://s3.uuu.ovh/imgs/2023/05/27/d837f5dd13b170d1.png" alt="b4d25f5c360e4ee1ae63c1a535de557d.png"></p>
+<h2 id="2-Github开源QQChannelChatGPT项目"><a href="#2-Github开源QQChannelChatGPT项目" class="headerlink" title="2.Github开源QQChannelChatGPT项目"></a>2.Github开源QQChannelChatGPT项目</h2><p>由于第一项ChatGPT碰壁，我好几天都没有再研究这个玩意。<br />直到有一天，我在全球最大的同性交友平台Github上发现了QQChannelChatGPT这个项目。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/82da45d2dd0b19e5.png" alt="QQ截图20230107171452.png"><br />这个东西简单来说就是通过QQ开放平台创建一个频道机器人，然后在通过python实现到OpenAI服务器的通讯。<br />但是，这玩意的README里面说如需使用这个东西需要注册OpenAI账号获取key。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/41685e2792348280.png" alt="QQ截图20230107171855.png"><br />所以，这个又进入了第一个方法的死循环，pass。</p>
+<h2 id="3-使用现成QQ频道机器人"><a href="#3-使用现成QQ频道机器人" class="headerlink" title="3.使用现成QQ频道机器人"></a>3.使用现成QQ频道机器人</h2><p>上面的项目中有一个频道的二维码，由于我不想加入并且不想在别人的频道里玩，所以这件事就不了了之。<br />但是，几天后，我在QQ开发者社区中发现了另一款机器人。我立刻把那一款机器人添加到了我的频道中。可是没过几个小时，机器人突然提示OpenAI API错误:( 原因如下：You exceeded your current quota, please check your plan and billing details. <br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/451a3a3255724cd4.png" alt="QQ截图20230107173959.png"><br />于是我赶紧使用<code>/status</code>查看设置。<br />结果，二十一个服务器全挂了。<br />但是呢，几个小时之后，服务器又恢复了。<br />虽然这个方法不稳定，但是起码还能用，所以体验成功！</p>
+<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>这年头，折腾外网的东西没有个梯子是真的不好弄了。<br />有条件的小伙伴可以自己搭建一个机器人。<br />QQChannelChatGPT开源地址：<a href="https://github.com/Soulter/QQChannelChatGPT">https://github.com/Soulter/QQChannelChatGPT</a><br />OpenAI官网：<a href="https://openai.com/">https://openai.com/</a><br />QQ开发者社区频道号：20dnumts4z2<br />有兴趣的小伙伴可以去看看。</p>
+]]></content>
+      <tags>
+        <tag>体验</tag>
+        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -400,6 +400,18 @@
       </tags>
   </entry>
   <entry>
+    <title>系统下载器</title>
+    <url>/posts/e655e845.html</url>
+    <content><![CDATA[<p>你还在为下载不到纯净的系统而感到烦恼吗？系统下载器能帮你解决一切问题。<br /><img src="https://s1.vika.cn/space/2023/01/23/a09dcbfff31c42f1b88aa45fb2b5e7c2" alt="网页捕获_4-11-2022_233247_coco.codemao.cn.jpeg"><br />在线体验链接：<a href="https://coco.codemao.cn/editor/player/163559184?channel=h5">https://coco.codemao.cn/editor/player/163559184?channel=h5</a><br />下载链接：<a href="https://creation.codemao.cn/434/BE426F91F4264FE2854814F5BED95293/https://creation.codemao.cn/434/BE426F91F4264FE2854814F5BED95293/%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%BD%BD%E5%99%A8.apk">https://creation.codemao.cn/434/BE426F91F4264FE2854814F5BED95293/系统下载器.apk</a></p>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>Codemao</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>终于可以在线写文章了！！！</title>
     <url>/posts/a72cf7a1.html</url>
     <content><![CDATA[<p>最近装了折腾了一下Hexo在线写文章，有两种方法，但是我用第一种有点问题，挺曲折的，所以写篇文章纪念一下</p>
@@ -467,18 +479,6 @@
       </categories>
       <tags>
         <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>系统下载器</title>
-    <url>/posts/e655e845.html</url>
-    <content><![CDATA[<p>你还在为下载不到纯净的系统而感到烦恼吗？系统下载器能帮你解决一切问题。<br /><img src="https://s1.vika.cn/space/2023/01/23/a09dcbfff31c42f1b88aa45fb2b5e7c2" alt="网页捕获_4-11-2022_233247_coco.codemao.cn.jpeg"><br />在线体验链接：<a href="https://coco.codemao.cn/editor/player/163559184?channel=h5">https://coco.codemao.cn/editor/player/163559184?channel=h5</a><br />下载链接：<a href="https://creation.codemao.cn/434/BE426F91F4264FE2854814F5BED95293/https://creation.codemao.cn/434/BE426F91F4264FE2854814F5BED95293/%E7%B3%BB%E7%BB%9F%E4%B8%8B%E8%BD%BD%E5%99%A8.apk">https://creation.codemao.cn/434/BE426F91F4264FE2854814F5BED95293/系统下载器.apk</a></p>
-]]></content>
-      <categories>
-        <category>编程</category>
-      </categories>
-      <tags>
-        <tag>Codemao</tag>
       </tags>
   </entry>
   <entry>
