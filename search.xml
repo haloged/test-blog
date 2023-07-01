@@ -25,6 +25,20 @@
       </tags>
   </entry>
   <entry>
+    <title>ATM机2.0</title>
+    <url>/posts/7.7457e+65.html</url>
+    <content><![CDATA[<p>ATM机2.0，由haloged制作。</p>
+<p>编程猫源文件：<a href="https://haloged.github.io/haloged1/ATM%E6%9C%BA2.0.bcm4">点击此处</a><br />ATM机exe文件：<a href="https://pan.baidu.com/s/1xjNMjFN2u5P4EQhi2vzabg?pwd=ATM2">点击此处</a><br />在线体验链接：<a href="https://shequ.codemao.cn/work/157529781">点击此处</a></p>
+<h2 id="部分登录积木图片："><a href="#部分登录积木图片：" class="headerlink" title="部分登录积木图片："></a>部分登录积木图片：</h2><p><img src="https://s3.uuu.ovh/imgs/2023/06/01/23fffcd75dcb98d6.png" alt="1976a92ca0314fd8944ef970e239fa59.png"></p>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>Codemao</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>python学生管理系统(pyqt5 含界面)</title>
     <url>/posts/6c03698e.html</url>
     <content><![CDATA[<h1 id="学生管理系统项目流程"><a href="#学生管理系统项目流程" class="headerlink" title="学生管理系统项目流程"></a>学生管理系统项目流程</h1><h2 id="项目模块"><a href="#项目模块" class="headerlink" title="项目模块"></a>项目模块</h2><h3 id="账号登陆"><a href="#账号登陆" class="headerlink" title="账号登陆"></a>账号登陆</h3><h3 id="人脸识别"><a href="#人脸识别" class="headerlink" title="人脸识别"></a>人脸识别</h3><h3 id="增添学生信息"><a href="#增添学生信息" class="headerlink" title="增添学生信息"></a>增添学生信息</h3><h3 id="删除学生信息"><a href="#删除学生信息" class="headerlink" title="删除学生信息"></a>删除学生信息</h3><h3 id="改动学生信息"><a href="#改动学生信息" class="headerlink" title="改动学生信息"></a>改动学生信息</h3><h3 id="查询学生信息"><a href="#查询学生信息" class="headerlink" title="查询学生信息"></a>查询学生信息</h3><h1 id="项目主体框架"><a href="#项目主体框架" class="headerlink" title="项目主体框架"></a>项目主体框架</h1><p><img src="https://i.ibb.co/7V33pc5/5d06ad7162d586a7.png" alt="https://i.ibb.co/7V33pc5/5d06ad7162d586a7.png"></p>
@@ -107,31 +121,15 @@
       </tags>
   </entry>
   <entry>
-    <title>ATM机2.0</title>
-    <url>/posts/7.7457e+65.html</url>
-    <content><![CDATA[<p>ATM机2.0，由haloged制作。</p>
-<p>编程猫源文件：<a href="https://haloged.github.io/haloged1/ATM%E6%9C%BA2.0.bcm4">点击此处</a><br />ATM机exe文件：<a href="https://pan.baidu.com/s/1xjNMjFN2u5P4EQhi2vzabg?pwd=ATM2">点击此处</a><br />在线体验链接：<a href="https://shequ.codemao.cn/work/157529781">点击此处</a></p>
-<h2 id="部分登录积木图片："><a href="#部分登录积木图片：" class="headerlink" title="部分登录积木图片："></a>部分登录积木图片：</h2><p><img src="https://s3.uuu.ovh/imgs/2023/06/01/23fffcd75dcb98d6.png" alt="1976a92ca0314fd8944ef970e239fa59.png"></p>
+    <title>CoCo安全卫士</title>
+    <url>/posts/6161a01b.html</url>
+    <content><![CDATA[<p>一个鸽了很久的作品，其实实际上没卵用。<br /><img src="https://s1.vika.cn/space/2023/01/23/9ac14bca197048b0b54c3992739e1297" alt="QQ截图20230114165335.png"><br />在线体验链接：<a href="https://coco.codemao.cn/editor/player/158330969?channel=h5">https://coco.codemao.cn/editor/player/158330969?channel=h5</a><br />下载链接：<a href="https://creation.codemao.cn/434/1E0C5832BD8E4FE2ABEFD310E871CBF9/CoCo%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB.apk">https://creation.codemao.cn/434/1E0C5832BD8E4FE2ABEFD310E871CBF9/CoCo安全卫士.apk</a></p>
 ]]></content>
       <categories>
         <category>编程</category>
       </categories>
       <tags>
         <tag>Codemao</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>体验ChatGPT</title>
-    <url>/posts/72a7a47.html</url>
-    <content><![CDATA[<p>在B站上，有很多体验ChatGPT的视频，还有很多QQ群友也在群里展示他们调戏ChatGPT的图片。我也很想体验这个。但是万万没想到，折腾了这么久，最后还是用一个最简单的办法实现的。所以我就想写个文档纪念一下。</p>
-<h2 id="1-直接到OpenAI官网注册账号"><a href="#1-直接到OpenAI官网注册账号" class="headerlink" title="1.直接到OpenAI官网注册账号"></a>1.直接到OpenAI官网注册账号</h2><p>首先，我直接想到了去OpenAI官网注册一个账号，就可以玩ChatGPT了。<br />但是，要是真的这么简单我就不会写文章了。<br />首先打开OpenAI官网<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/7144bcaca1dd9423.png" alt="c2881d4fd8234822bf3a9a4c840b9cc3.png"><br />然后往下滑在<strong>FEATURED一栏里找到ChatGPT</strong><br /><strong>由于我没有梯子，所以OpenAI直接提示</strong>Access denied不让进。<br />所以，这个方案pass。<img src="https://s3.uuu.ovh/imgs/2023/05/27/d837f5dd13b170d1.png" alt="b4d25f5c360e4ee1ae63c1a535de557d.png"></p>
-<h2 id="2-Github开源QQChannelChatGPT项目"><a href="#2-Github开源QQChannelChatGPT项目" class="headerlink" title="2.Github开源QQChannelChatGPT项目"></a>2.Github开源QQChannelChatGPT项目</h2><p>由于第一项ChatGPT碰壁，我好几天都没有再研究这个玩意。<br />直到有一天，我在全球最大的同性交友平台Github上发现了QQChannelChatGPT这个项目。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/82da45d2dd0b19e5.png" alt="QQ截图20230107171452.png"><br />这个东西简单来说就是通过QQ开放平台创建一个频道机器人，然后在通过python实现到OpenAI服务器的通讯。<br />但是，这玩意的README里面说如需使用这个东西需要注册OpenAI账号获取key。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/41685e2792348280.png" alt="QQ截图20230107171855.png"><br />所以，这个又进入了第一个方法的死循环，pass。</p>
-<h2 id="3-使用现成QQ频道机器人"><a href="#3-使用现成QQ频道机器人" class="headerlink" title="3.使用现成QQ频道机器人"></a>3.使用现成QQ频道机器人</h2><p>上面的项目中有一个频道的二维码，由于我不想加入并且不想在别人的频道里玩，所以这件事就不了了之。<br />但是，几天后，我在QQ开发者社区中发现了另一款机器人。我立刻把那一款机器人添加到了我的频道中。可是没过几个小时，机器人突然提示OpenAI API错误:( 原因如下：You exceeded your current quota, please check your plan and billing details. <br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/451a3a3255724cd4.png" alt="QQ截图20230107173959.png"><br />于是我赶紧使用<code>/status</code>查看设置。<br />结果，二十一个服务器全挂了。<br />但是呢，几个小时之后，服务器又恢复了。<br />虽然这个方法不稳定，但是起码还能用，所以体验成功！</p>
-<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>这年头，折腾外网的东西没有个梯子是真的不好弄了。<br />有条件的小伙伴可以自己搭建一个机器人。<br />QQChannelChatGPT开源地址：<a href="https://github.com/Soulter/QQChannelChatGPT">https://github.com/Soulter/QQChannelChatGPT</a><br />OpenAI官网：<a href="https://openai.com/">https://openai.com/</a><br />QQ开发者社区频道号：20dnumts4z2<br />有兴趣的小伙伴可以去看看。</p>
-]]></content>
-      <tags>
-        <tag>体验</tag>
-        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -146,20 +144,22 @@
         <category>编程</category>
       </categories>
       <tags>
-        <tag>Python</tag>
         <tag>Codemao</tag>
+        <tag>Python</tag>
       </tags>
   </entry>
   <entry>
-    <title>CoCo安全卫士</title>
-    <url>/posts/6161a01b.html</url>
-    <content><![CDATA[<p>一个鸽了很久的作品，其实实际上没卵用。<br /><img src="https://s1.vika.cn/space/2023/01/23/9ac14bca197048b0b54c3992739e1297" alt="QQ截图20230114165335.png"><br />在线体验链接：<a href="https://coco.codemao.cn/editor/player/158330969?channel=h5">https://coco.codemao.cn/editor/player/158330969?channel=h5</a><br />下载链接：<a href="https://creation.codemao.cn/434/1E0C5832BD8E4FE2ABEFD310E871CBF9/CoCo%E5%AE%89%E5%85%A8%E5%8D%AB%E5%A3%AB.apk">https://creation.codemao.cn/434/1E0C5832BD8E4FE2ABEFD310E871CBF9/CoCo安全卫士.apk</a></p>
+    <title>体验ChatGPT</title>
+    <url>/posts/72a7a47.html</url>
+    <content><![CDATA[<p>在B站上，有很多体验ChatGPT的视频，还有很多QQ群友也在群里展示他们调戏ChatGPT的图片。我也很想体验这个。但是万万没想到，折腾了这么久，最后还是用一个最简单的办法实现的。所以我就想写个文档纪念一下。</p>
+<h2 id="1-直接到OpenAI官网注册账号"><a href="#1-直接到OpenAI官网注册账号" class="headerlink" title="1.直接到OpenAI官网注册账号"></a>1.直接到OpenAI官网注册账号</h2><p>首先，我直接想到了去OpenAI官网注册一个账号，就可以玩ChatGPT了。<br />但是，要是真的这么简单我就不会写文章了。<br />首先打开OpenAI官网<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/7144bcaca1dd9423.png" alt="c2881d4fd8234822bf3a9a4c840b9cc3.png"><br />然后往下滑在<strong>FEATURED一栏里找到ChatGPT</strong><br /><strong>由于我没有梯子，所以OpenAI直接提示</strong>Access denied不让进。<br />所以，这个方案pass。<img src="https://s3.uuu.ovh/imgs/2023/05/27/d837f5dd13b170d1.png" alt="b4d25f5c360e4ee1ae63c1a535de557d.png"></p>
+<h2 id="2-Github开源QQChannelChatGPT项目"><a href="#2-Github开源QQChannelChatGPT项目" class="headerlink" title="2.Github开源QQChannelChatGPT项目"></a>2.Github开源QQChannelChatGPT项目</h2><p>由于第一项ChatGPT碰壁，我好几天都没有再研究这个玩意。<br />直到有一天，我在全球最大的同性交友平台Github上发现了QQChannelChatGPT这个项目。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/82da45d2dd0b19e5.png" alt="QQ截图20230107171452.png"><br />这个东西简单来说就是通过QQ开放平台创建一个频道机器人，然后在通过python实现到OpenAI服务器的通讯。<br />但是，这玩意的README里面说如需使用这个东西需要注册OpenAI账号获取key。<br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/41685e2792348280.png" alt="QQ截图20230107171855.png"><br />所以，这个又进入了第一个方法的死循环，pass。</p>
+<h2 id="3-使用现成QQ频道机器人"><a href="#3-使用现成QQ频道机器人" class="headerlink" title="3.使用现成QQ频道机器人"></a>3.使用现成QQ频道机器人</h2><p>上面的项目中有一个频道的二维码，由于我不想加入并且不想在别人的频道里玩，所以这件事就不了了之。<br />但是，几天后，我在QQ开发者社区中发现了另一款机器人。我立刻把那一款机器人添加到了我的频道中。可是没过几个小时，机器人突然提示OpenAI API错误:( 原因如下：You exceeded your current quota, please check your plan and billing details. <br /><img src="https://s3.uuu.ovh/imgs/2023/05/27/451a3a3255724cd4.png" alt="QQ截图20230107173959.png"><br />于是我赶紧使用<code>/status</code>查看设置。<br />结果，二十一个服务器全挂了。<br />但是呢，几个小时之后，服务器又恢复了。<br />虽然这个方法不稳定，但是起码还能用，所以体验成功！</p>
+<h2 id="4-总结"><a href="#4-总结" class="headerlink" title="4.总结"></a>4.总结</h2><p>这年头，折腾外网的东西没有个梯子是真的不好弄了。<br />有条件的小伙伴可以自己搭建一个机器人。<br />QQChannelChatGPT开源地址：<a href="https://github.com/Soulter/QQChannelChatGPT">https://github.com/Soulter/QQChannelChatGPT</a><br />OpenAI官网：<a href="https://openai.com/">https://openai.com/</a><br />QQ开发者社区频道号：20dnumts4z2<br />有兴趣的小伙伴可以去看看。</p>
 ]]></content>
-      <categories>
-        <category>编程</category>
-      </categories>
       <tags>
-        <tag>Codemao</tag>
+        <tag>体验</tag>
+        <tag>ChatGPT</tag>
       </tags>
   </entry>
   <entry>
@@ -567,26 +567,6 @@
       </tags>
   </entry>
   <entry>
-    <title>版本号规范</title>
-    <url>/posts/51d32d85.html</url>
-    <content><![CDATA[<h2 id="版本号"><a href="#版本号" class="headerlink" title="版本号"></a>版本号</h2><p><code>a.b.c_d-e</code><br /><code>a</code>: 主版本号 出现大体不兼容或修改的 或 出现大体兼容修改时 修改本数值。<br /><code>b</code>: 子版本号 出现小规模兼容修改时 或 出现重大漏洞时 修改本数值。<br /><code>c</code>: 阶段版本号 修复较小漏洞并且与旧功能兼容时 修改此数值。<br /><code>d</code>: 版本区分号 具体看下方“版本区分号”说明。<br /><code>e</code>: 实时提交次数。</p>
-<h2 id="版本区分号"><a href="#版本区分号" class="headerlink" title="版本区分号"></a>版本区分号</h2><p>Alpha – 内部测试版<br />Beta – 公开测试版<br />Cardware – 属共享软件的一种，只要给作者回复一封电邮或明信片即可。目前这种形式已不多见。<br />CHT – 繁体中文版<br />CN/SPC – 简体中文版<br />EN – 英文版<br />Corporation &amp; Enterprise – 企业版<br />Deluxe – 豪华版<br />Demo – 演示版<br />Dev – 开发专用版，程序员版本<br />Enhance – 增强版&amp;加强版 （属于正式版）<br />Express&amp;Special –特别版<br />Final – 最终版<br />Free – 免费版<br />Full version – 完全版 （属于正式版）<br />Green – 绿色版&amp;；破解版<br />Mini – 迷你版&amp;；精简版，只有最基本的功能，占用资源较少<br />Multi-language – 多语言版<br />Plus – 属增强版，不过大部分是在程序界面及功能上增强。<br />Preview –预览版<br />Professional – 专业版<br />Regged/Registered – 已注册版<br />Release – 发行版<br />Retail/RTM – 零售版<br />Shareware – 共享版<br />Stable – 稳定版<br />Standard – 标准版<br />Ultimate – 旗舰版<br />Upgrade – 升级版</p>
-<h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><h3 id="非正式版"><a href="#非正式版" class="headerlink" title="非正式版"></a>非正式版</h3><p>α（alpha）版<br />此版本表示该软件仅仅是一个初步完成品，通常只在软件开发者内部交流，也有很少一部分发布给专业测试人员。也有少部分软件公司会公开alpha版的软件<br />一般而言，该版本软件的 bug 较多，普通用户最好不要安装。<br />β（Beta）版<br />该版本相对于α版已有了很大的改进，消除了严重的错误，但还是存在着一些缺陷，需要经过大规模的发布测试来进一步消除。这一版本通常由软件公司免费发布，用户可从相关的站点下载。通过一些专业爱好者的测试，将结果反馈给开发者，开发者们再进行有针对性的修改。该版本也不适合一般用户安装。<br />γ（gamma）版<br />该版本已经相当成熟了，与即将发行的正式版相差无几，如果用户实在等不及了，尽可以装上一试。<br />Trial（试用版）<br />试用版软件在最近的几年里颇为流行，主要是得益于互联网的迅速发展。该版本软件通常都有时间限制，过期之后用户如果希望继续使用，一般得交纳一定的费用进行注册或购买。有些试用版软件还在功能上做了一定的限制。<br />Unregistered（未注册版）<br />未注册版与试用版极其类似，只是未注册版通常没有时间限制，在功能上相对于正式版做了一定的限制，例如绝大多数网络电话软件的注册版和未注册版，两者之间在通话质量上有很大差距。还有些虽然在使用上与正式版毫无二致，但是动不动就会弹出一个恼人的消息框来提醒你注册，如看图软件acdsee 、智能陈桥汉字输入软件等。<br />Demo版<br />也称为演示版，在非正式版软件中，该版本的知名度最大。demo 版仅仅集成了正式版中的几个功能，颇有点像 unregistered。不同的是， demo 版一般不能通过升级或注册的方法变为正式版。<br />以上是软件正式版本推出之前的几个版本，α、β、γ可以称为测试版，大凡成熟软件总会有多个测试版，如 windows 98 的β版，前前后后将近有 10 个。这么多的测试版一方面为了最终产品尽可能地满足用户的需要，另一方面也尽量减少了软件中的 bug。而 trial 、 unregistered 、 demo 有时统称为演示版，这一类版本的广告色彩较浓，颇有点先尝后买的味道，对于普通用户而言自然是可以免费尝鲜了。</p>
-<h3 id="正式版"><a href="#正式版" class="headerlink" title="正式版"></a>正式版</h3><p>不同类型的软件的正式版本通常也有区别。<br />Release<br />该版本意味“最终释放版”，在出了一系列的测试版之后，终归会有一个正式版本，对于用户而言，安装该版本的软件绝对不会错。该版本有时也称为标准版。一般情况下， release 不会以单词形式出现在软件封面上，取而代之的是符号 (r) ，如 windows nt(r) 4.0 、 ms-dos(r) 6.22 等。<br />Registered<br />很显然，该版本是与 unregistered 相对的注册版。注册版、 release 和下面所讲的 standard 版一样，都是软件的正式版本，只是注册版软件的前身有很大一部分是从网上下载的。<br />Standard<br />这是最常见的标准版，不论是什么软件，标准版一定存在。标准版中包含了该软件的基本组件及一些常用功能，占用资源较高级版低，可以满足一般用户的需求。对于收费软件来说，其价格相对高一级版本而言还是“平易近人”的。<br />Deluxe<br />顾名思义即为“豪华版”。豪华版通常是相对于标准版而言的，主要区别是多了几项功能，价格当然会高出一大块，不推荐一般用户购买。此版本通常是为那些追求“完美”的专业用户所准备的。<br />Reference<br />该版本型号常见于百科全书中，比较有名的是微软的 encarta 系列。reference 是最高级别，其包含的主题、图像、影片剪辑等相对于 standard 和 deluxe 版均有大幅增加，容量由一张光盘猛增至三张光盘，并且加入了很强的交互功能，当然价格也不菲。可以这么说，这一版本的百科全书才能算是真正的百科全书，也是发烧友们收藏的首选。<br />Professional（专业版）<br />专业版是针对某些特定的开发工具软件而言的。专业版中有许多内容是标准版中所没有的，这些内容对于一个专业的软件开发人员来说是极为重要的。如微软的 visual foxpro 标准版并不具备编译成可执行文件的功能，这对于一个完整的开发项目而言显然是无法忍受的，若客户机上没有 foxpro 将不能使用。如果用专业版就没有这个问题了。<br />Enterprise（企业版）<br />企业版是开发类软件中的极品（相当于百科全书中的 reference 版）。拥有一套这种版本的软件可以毫无障碍地开发任何级别的应用软件。如著名的 visual c++ 的企业版相对于专业版来说增加了几个附加的特性，如 sql 调试、扩展的存储过程向导、支持 as/400 对 ole db 的访问等。而这一版本的价格也是普通用户无法接受的。如微软的 visual studios 6.0 enterprise 中文版的价格为 23000 元。</p>
-<h3 id="专有版本"><a href="#专有版本" class="headerlink" title="专有版本"></a>专有版本</h3><p>除了以上介绍的一些版本外，还有一些专有版本名称。<br />Update（升级版）<br />升级版的软件是不能独立使用的，该版本的软件在安装过程中会搜索原有的正式版，如果不存在，则拒绝执行下一步。如 microsoft office 2000 升级版、 windows 9x 升级版等等。<br />OEM版<br />OEM 版通常是捆绑在硬件中而不单独销售的版本。将自己的产品交给别的公司去卖，保留自己的著作权，双方互惠互利，一举两得。<br />单机（网络）版<br />网络版在功能、结构上远比单机版复杂，如果留心一下软件的报价，你就会发现某些软件单机版和网络版的价格相差非常大，有些网络版甚至多一个客户端口就要加不少钱。<br />普及版<br />该版本有时也会被称为共享版，其特点是价格便宜（有些甚至完全免费）、功能单一、针对性强（当然也有占领市场、打击盗版等因素）。与试用版不同的是，该版本的软件一般不会有时间上的限制。当然，如果用户想升级，最好还是去购买正式版。</p>
-<h3 id="其他版本"><a href="#其他版本" class="headerlink" title="其他版本"></a>其他版本</h3><p>破解版又称绿色版，严格来说这不属于一种授权版本，因为它是针对商业版、试用版、共享版这类有使用限制的软件进行二次开发之后形成的特殊版本，也就是说，使用者可以在没有任何经济付出的条件下无限制的使用该软件的全部功能。一般通过改写原软件、制作算号器、拦截注册信息等等方式实现。<br />以上是一些常见软件版本的简要介绍，随着软件市场行为的变化，现在也出现了一些新的版本命名方式，比如windows xp中的xp是取自于experience中的第二、第三个字母。希望以上内容能够对大家的购买、使用和下载软件有所帮助。<br />基于商业上考虑，很多的软件都不是非常严谨的遵循这个规则的。最有名的就是微软了。例如他的 NT 系列版本。大家比较熟悉的是从 NT 4.0 开始的。99 年推出了 windows 2000 ， 2001 年推出了 windows xp ， 2003 年推出了 windows 2003 ，乍一看版本区别蛮大的，但是看他们的内部版本号就会发现，变化其实并不大，只是界面变化的大了而已。这是软件公司经常干的事情。Windows 2000 的版本号是 NT 5.0 ， windows xp 的版本号是 NT 5.1 ， windows 2003 的版本号是 NT 5.2 ，Windows Vista和现在的Windows7 的版本号是 NT 6.0和NT 6.1，才是跨越化的版本。这样做的话就可以持续的赚广大客户的钱。毕竟人的眼睛看得东西是最直观的，所以给人感觉也是变化最大的。</p>
-<h4 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h4><blockquote>
-<p><a href="https://waddle.coco-central.cn/docs/#/dev/4-%E7%89%88%E6%9C%AC%E5%8F%B7%E8%A7%84%E8%8C%83">https://waddle.coco-central.cn/docs/#/dev/4-%E7%89%88%E6%9C%AC%E5%8F%B7%E8%A7%84%E8%8C%83</a><br><a href="https://baike.baidu.com/item/%E7%89%88%E6%9C%AC%E5%8F%B7/7674145?fr=aladdin">https://baike.baidu.com/item/%E7%89%88%E6%9C%AC%E5%8F%B7/7674145?fr=aladdin</a><br><a href="https://blog.csdn.net/qq_35246620/article/details/78443169">https://blog.csdn.net/qq_35246620/article/details/78443169</a><br><a href="https://blog.csdn.net/weixin_38984879/article/details/124819491">https://blog.csdn.net/weixin_38984879/article/details/124819491</a><br><a href="https://blog.csdn.net/weixin_41682466/article/details/98481445">https://blog.csdn.net/weixin_41682466/article/details/98481445</a><br><a href="https://blog.csdn.net/liujia216/article/details/53102908">https://blog.csdn.net/liujia216/article/details/53102908</a><br><a href="https://blog.csdn.net/qiphon3650/article/details/125421934">https://blog.csdn.net/qiphon3650/article/details/125421934</a><br><a href="https://download.csdn.net/download/bbkxw001/12003779">https://download.csdn.net/download/bbkxw001/12003779</a><br><a href="https://mp.weixin.qq.com/s?__biz=MzI3MDAxODk0Ng==&mid=2650015847&idx=1&sn=22cbdc5f33b1b0fa10240fe7bea88bd4&mpshare=1&scene=23&srcid=0725qNBZrEO9h8NP3svRmdGp#rd">https://mp.weixin.qq.com/s?__biz=MzI3MDAxODk0Ng</a><br><a href="https://www.jianshu.com/p/c673b8c75a81">https://www.jianshu.com/p/c673b8c75a81</a><br><a href="https://zhuanlan.zhihu.com/p/508354840">https://zhuanlan.zhihu.com/p/508354840</a><br><a href="https://zhuanlan.zhihu.com/p/492569838">https://zhuanlan.zhihu.com/p/492569838</a><br><a href="https://cloud.tencent.com/developer/article/2017396">https://cloud.tencent.com/developer/article/2017396</a><br><a href="https://developer.aliyun.com/article/11531">https://developer.aliyun.com/article/11531</a><br><a href="https://developer.android.google.cn/jetpack/androidx/versions?hl=zh-cn">https://developer.android.google.cn/jetpack/androidx/versions?hl=zh-cn</a><br><a href="https://juejin.cn/post/7073902470585384990">https://juejin.cn/post/7073902470585384990</a><br><a href="https://www.woshipm.com/pmd/4053949.html">https://www.woshipm.com/pmd/4053949.html</a><br><a href="https://www.21ic.com/article/891440.html">https://www.21ic.com/article/891440.html</a></p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>编程</category>
-      </categories>
-      <tags>
-        <tag>编程小知识</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>网页跳转大师解决方案</title>
     <url>/posts/f35e1f9c.html</url>
     <content><![CDATA[<h2 id="开源文件"><a href="#开源文件" class="headerlink" title="开源文件"></a>开源文件</h2><p><a href="https://www.yuque.com/attachments/yuque/0/2022/json/29771975/1672391223175-b8e0e1bd-3998-4c18-b565-a74d47133eb1.json?_lake_card=%7B%22src%22:%22https://www.yuque.com/attachments/yuque/0/2022/json/29771975/1672391223175-b8e0e1bd-3998-4c18-b565-a74d47133eb1.json%22,%22name%22:%22%E7%BD%91%E9%A1%B5%E8%B7%B3%E8%BD%AC%E5%A4%A7%E5%B8%88%20(1).json%22,%22size%22:85126,%22type%22:%22application/json%22,%22ext%22:%22json%22,%22source%22:%22%22,%22status%22:%22done%22,%22mode%22:%22title%22,%22download%22:true,%22taskId%22:%22ub6d5691c-f7fc-41e1-9572-70d8a84ef7b%22,%22taskType%22:%22upload%22,%22__spacing%22:%22both%22,%22id%22:%22ua0ba560c%22,%22margin%22:%7B%22top%22:true,%22bottom%22:true%7D,%22card%22:%22file%22%7D">网页跳转大师 (1).json</a><br>bcm社区链接：<a href="https://shequ.codemao.cn/work/165115720">https://shequ.codemao.cn/work/165115720</a><br>H5体验链接：<a href="https://coco.codemao.cn/editor/player/165115720?channel=h5">https://coco.codemao.cn/editor/player/165115720?channel=h5</a><br>跳转示例链接：<a href="https://static.codemao.cn/coco/player/unstable/HkNmju0Fo.text/html?hash=Fiu0gLSlDjqjtILKqwu7isT_ngaY">https://static.codemao.cn/coco/player/unstable/HkNmju0Fo.text/html?hash=Fiu0gLSlDjqjtILKqwu7isT_ngaY</a></p>
@@ -638,6 +618,26 @@
       </tags>
   </entry>
   <entry>
+    <title>版本号规范</title>
+    <url>/posts/51d32d85.html</url>
+    <content><![CDATA[<h2 id="版本号"><a href="#版本号" class="headerlink" title="版本号"></a>版本号</h2><p><code>a.b.c_d-e</code><br /><code>a</code>: 主版本号 出现大体不兼容或修改的 或 出现大体兼容修改时 修改本数值。<br /><code>b</code>: 子版本号 出现小规模兼容修改时 或 出现重大漏洞时 修改本数值。<br /><code>c</code>: 阶段版本号 修复较小漏洞并且与旧功能兼容时 修改此数值。<br /><code>d</code>: 版本区分号 具体看下方“版本区分号”说明。<br /><code>e</code>: 实时提交次数。</p>
+<h2 id="版本区分号"><a href="#版本区分号" class="headerlink" title="版本区分号"></a>版本区分号</h2><p>Alpha – 内部测试版<br />Beta – 公开测试版<br />Cardware – 属共享软件的一种，只要给作者回复一封电邮或明信片即可。目前这种形式已不多见。<br />CHT – 繁体中文版<br />CN/SPC – 简体中文版<br />EN – 英文版<br />Corporation &amp; Enterprise – 企业版<br />Deluxe – 豪华版<br />Demo – 演示版<br />Dev – 开发专用版，程序员版本<br />Enhance – 增强版&amp;加强版 （属于正式版）<br />Express&amp;Special –特别版<br />Final – 最终版<br />Free – 免费版<br />Full version – 完全版 （属于正式版）<br />Green – 绿色版&amp;；破解版<br />Mini – 迷你版&amp;；精简版，只有最基本的功能，占用资源较少<br />Multi-language – 多语言版<br />Plus – 属增强版，不过大部分是在程序界面及功能上增强。<br />Preview –预览版<br />Professional – 专业版<br />Regged/Registered – 已注册版<br />Release – 发行版<br />Retail/RTM – 零售版<br />Shareware – 共享版<br />Stable – 稳定版<br />Standard – 标准版<br />Ultimate – 旗舰版<br />Upgrade – 升级版</p>
+<h2 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h2><h3 id="非正式版"><a href="#非正式版" class="headerlink" title="非正式版"></a>非正式版</h3><p>α（alpha）版<br />此版本表示该软件仅仅是一个初步完成品，通常只在软件开发者内部交流，也有很少一部分发布给专业测试人员。也有少部分软件公司会公开alpha版的软件<br />一般而言，该版本软件的 bug 较多，普通用户最好不要安装。<br />β（Beta）版<br />该版本相对于α版已有了很大的改进，消除了严重的错误，但还是存在着一些缺陷，需要经过大规模的发布测试来进一步消除。这一版本通常由软件公司免费发布，用户可从相关的站点下载。通过一些专业爱好者的测试，将结果反馈给开发者，开发者们再进行有针对性的修改。该版本也不适合一般用户安装。<br />γ（gamma）版<br />该版本已经相当成熟了，与即将发行的正式版相差无几，如果用户实在等不及了，尽可以装上一试。<br />Trial（试用版）<br />试用版软件在最近的几年里颇为流行，主要是得益于互联网的迅速发展。该版本软件通常都有时间限制，过期之后用户如果希望继续使用，一般得交纳一定的费用进行注册或购买。有些试用版软件还在功能上做了一定的限制。<br />Unregistered（未注册版）<br />未注册版与试用版极其类似，只是未注册版通常没有时间限制，在功能上相对于正式版做了一定的限制，例如绝大多数网络电话软件的注册版和未注册版，两者之间在通话质量上有很大差距。还有些虽然在使用上与正式版毫无二致，但是动不动就会弹出一个恼人的消息框来提醒你注册，如看图软件acdsee 、智能陈桥汉字输入软件等。<br />Demo版<br />也称为演示版，在非正式版软件中，该版本的知名度最大。demo 版仅仅集成了正式版中的几个功能，颇有点像 unregistered。不同的是， demo 版一般不能通过升级或注册的方法变为正式版。<br />以上是软件正式版本推出之前的几个版本，α、β、γ可以称为测试版，大凡成熟软件总会有多个测试版，如 windows 98 的β版，前前后后将近有 10 个。这么多的测试版一方面为了最终产品尽可能地满足用户的需要，另一方面也尽量减少了软件中的 bug。而 trial 、 unregistered 、 demo 有时统称为演示版，这一类版本的广告色彩较浓，颇有点先尝后买的味道，对于普通用户而言自然是可以免费尝鲜了。</p>
+<h3 id="正式版"><a href="#正式版" class="headerlink" title="正式版"></a>正式版</h3><p>不同类型的软件的正式版本通常也有区别。<br />Release<br />该版本意味“最终释放版”，在出了一系列的测试版之后，终归会有一个正式版本，对于用户而言，安装该版本的软件绝对不会错。该版本有时也称为标准版。一般情况下， release 不会以单词形式出现在软件封面上，取而代之的是符号 (r) ，如 windows nt(r) 4.0 、 ms-dos(r) 6.22 等。<br />Registered<br />很显然，该版本是与 unregistered 相对的注册版。注册版、 release 和下面所讲的 standard 版一样，都是软件的正式版本，只是注册版软件的前身有很大一部分是从网上下载的。<br />Standard<br />这是最常见的标准版，不论是什么软件，标准版一定存在。标准版中包含了该软件的基本组件及一些常用功能，占用资源较高级版低，可以满足一般用户的需求。对于收费软件来说，其价格相对高一级版本而言还是“平易近人”的。<br />Deluxe<br />顾名思义即为“豪华版”。豪华版通常是相对于标准版而言的，主要区别是多了几项功能，价格当然会高出一大块，不推荐一般用户购买。此版本通常是为那些追求“完美”的专业用户所准备的。<br />Reference<br />该版本型号常见于百科全书中，比较有名的是微软的 encarta 系列。reference 是最高级别，其包含的主题、图像、影片剪辑等相对于 standard 和 deluxe 版均有大幅增加，容量由一张光盘猛增至三张光盘，并且加入了很强的交互功能，当然价格也不菲。可以这么说，这一版本的百科全书才能算是真正的百科全书，也是发烧友们收藏的首选。<br />Professional（专业版）<br />专业版是针对某些特定的开发工具软件而言的。专业版中有许多内容是标准版中所没有的，这些内容对于一个专业的软件开发人员来说是极为重要的。如微软的 visual foxpro 标准版并不具备编译成可执行文件的功能，这对于一个完整的开发项目而言显然是无法忍受的，若客户机上没有 foxpro 将不能使用。如果用专业版就没有这个问题了。<br />Enterprise（企业版）<br />企业版是开发类软件中的极品（相当于百科全书中的 reference 版）。拥有一套这种版本的软件可以毫无障碍地开发任何级别的应用软件。如著名的 visual c++ 的企业版相对于专业版来说增加了几个附加的特性，如 sql 调试、扩展的存储过程向导、支持 as/400 对 ole db 的访问等。而这一版本的价格也是普通用户无法接受的。如微软的 visual studios 6.0 enterprise 中文版的价格为 23000 元。</p>
+<h3 id="专有版本"><a href="#专有版本" class="headerlink" title="专有版本"></a>专有版本</h3><p>除了以上介绍的一些版本外，还有一些专有版本名称。<br />Update（升级版）<br />升级版的软件是不能独立使用的，该版本的软件在安装过程中会搜索原有的正式版，如果不存在，则拒绝执行下一步。如 microsoft office 2000 升级版、 windows 9x 升级版等等。<br />OEM版<br />OEM 版通常是捆绑在硬件中而不单独销售的版本。将自己的产品交给别的公司去卖，保留自己的著作权，双方互惠互利，一举两得。<br />单机（网络）版<br />网络版在功能、结构上远比单机版复杂，如果留心一下软件的报价，你就会发现某些软件单机版和网络版的价格相差非常大，有些网络版甚至多一个客户端口就要加不少钱。<br />普及版<br />该版本有时也会被称为共享版，其特点是价格便宜（有些甚至完全免费）、功能单一、针对性强（当然也有占领市场、打击盗版等因素）。与试用版不同的是，该版本的软件一般不会有时间上的限制。当然，如果用户想升级，最好还是去购买正式版。</p>
+<h3 id="其他版本"><a href="#其他版本" class="headerlink" title="其他版本"></a>其他版本</h3><p>破解版又称绿色版，严格来说这不属于一种授权版本，因为它是针对商业版、试用版、共享版这类有使用限制的软件进行二次开发之后形成的特殊版本，也就是说，使用者可以在没有任何经济付出的条件下无限制的使用该软件的全部功能。一般通过改写原软件、制作算号器、拦截注册信息等等方式实现。<br />以上是一些常见软件版本的简要介绍，随着软件市场行为的变化，现在也出现了一些新的版本命名方式，比如windows xp中的xp是取自于experience中的第二、第三个字母。希望以上内容能够对大家的购买、使用和下载软件有所帮助。<br />基于商业上考虑，很多的软件都不是非常严谨的遵循这个规则的。最有名的就是微软了。例如他的 NT 系列版本。大家比较熟悉的是从 NT 4.0 开始的。99 年推出了 windows 2000 ， 2001 年推出了 windows xp ， 2003 年推出了 windows 2003 ，乍一看版本区别蛮大的，但是看他们的内部版本号就会发现，变化其实并不大，只是界面变化的大了而已。这是软件公司经常干的事情。Windows 2000 的版本号是 NT 5.0 ， windows xp 的版本号是 NT 5.1 ， windows 2003 的版本号是 NT 5.2 ，Windows Vista和现在的Windows7 的版本号是 NT 6.0和NT 6.1，才是跨越化的版本。这样做的话就可以持续的赚广大客户的钱。毕竟人的眼睛看得东西是最直观的，所以给人感觉也是变化最大的。</p>
+<h4 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h4><blockquote>
+<p><a href="https://waddle.coco-central.cn/docs/#/dev/4-%E7%89%88%E6%9C%AC%E5%8F%B7%E8%A7%84%E8%8C%83">https://waddle.coco-central.cn/docs/#/dev/4-%E7%89%88%E6%9C%AC%E5%8F%B7%E8%A7%84%E8%8C%83</a><br><a href="https://baike.baidu.com/item/%E7%89%88%E6%9C%AC%E5%8F%B7/7674145?fr=aladdin">https://baike.baidu.com/item/%E7%89%88%E6%9C%AC%E5%8F%B7/7674145?fr=aladdin</a><br><a href="https://blog.csdn.net/qq_35246620/article/details/78443169">https://blog.csdn.net/qq_35246620/article/details/78443169</a><br><a href="https://blog.csdn.net/weixin_38984879/article/details/124819491">https://blog.csdn.net/weixin_38984879/article/details/124819491</a><br><a href="https://blog.csdn.net/weixin_41682466/article/details/98481445">https://blog.csdn.net/weixin_41682466/article/details/98481445</a><br><a href="https://blog.csdn.net/liujia216/article/details/53102908">https://blog.csdn.net/liujia216/article/details/53102908</a><br><a href="https://blog.csdn.net/qiphon3650/article/details/125421934">https://blog.csdn.net/qiphon3650/article/details/125421934</a><br><a href="https://download.csdn.net/download/bbkxw001/12003779">https://download.csdn.net/download/bbkxw001/12003779</a><br><a href="https://mp.weixin.qq.com/s?__biz=MzI3MDAxODk0Ng==&mid=2650015847&idx=1&sn=22cbdc5f33b1b0fa10240fe7bea88bd4&mpshare=1&scene=23&srcid=0725qNBZrEO9h8NP3svRmdGp#rd">https://mp.weixin.qq.com/s?__biz=MzI3MDAxODk0Ng</a><br><a href="https://www.jianshu.com/p/c673b8c75a81">https://www.jianshu.com/p/c673b8c75a81</a><br><a href="https://zhuanlan.zhihu.com/p/508354840">https://zhuanlan.zhihu.com/p/508354840</a><br><a href="https://zhuanlan.zhihu.com/p/492569838">https://zhuanlan.zhihu.com/p/492569838</a><br><a href="https://cloud.tencent.com/developer/article/2017396">https://cloud.tencent.com/developer/article/2017396</a><br><a href="https://developer.aliyun.com/article/11531">https://developer.aliyun.com/article/11531</a><br><a href="https://developer.android.google.cn/jetpack/androidx/versions?hl=zh-cn">https://developer.android.google.cn/jetpack/androidx/versions?hl=zh-cn</a><br><a href="https://juejin.cn/post/7073902470585384990">https://juejin.cn/post/7073902470585384990</a><br><a href="https://www.woshipm.com/pmd/4053949.html">https://www.woshipm.com/pmd/4053949.html</a><br><a href="https://www.21ic.com/article/891440.html">https://www.21ic.com/article/891440.html</a></p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>编程小知识</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>网页跳转大师</title>
     <url>/posts/3b321daf.html</url>
     <content><![CDATA[<p>你是否还在为作品无法跳转链接尔烦恼呢？来试试网页跳转大师吧！他能解决一切烦恼。<br /><img src="https://s1.vika.cn/space/2023/01/23/ab9f4a481cfa45169fdae918923dddfd" alt="网页捕获_28-10-2022_234010_coco.codemao.cn.jpeg"><br /><img src="https://s1.vika.cn/space/2023/01/23/b799bf446eb24608ba9f4be26bea3599" alt="IMG_20221102_194721.jpg"></p>
@@ -657,6 +657,54 @@
 ]]></content>
       <tags>
         <tag>营销号文案</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>保姆级Hexo教程3-主题配置</title>
+    <url>/posts/78e8aec1.html</url>
+    <content><![CDATA[<p>好久没有更新文章了，今天来填一下坑</p>
+<h1 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h1><p>修改站点配置文件 <code>_config.yml</code>(注意不是_config.butterfly.yml啊！！！)</p>
+<p>默认语言是 en</p>
+<p>Butterfly主题支持三种语言：</p>
+<ul>
+<li>default(en)</li>
+<li>zh-CN (简体中文)</li>
+<li>zh-TW (繁体中文)</li>
+</ul>
+<p>只要把想要的语言填到 <code>language</code>里就可以了。</p>
+<p><img src="https://s3.uuu.ovh/imgs/2023/06/18/b0070f523b7a289e.png"></p>
+<h1 id="导航栏设置"><a href="#导航栏设置" class="headerlink" title="导航栏设置"></a>导航栏设置</h1><p>注意！！！后面的就是在 <code>_config.butterfly.yml</code>力！！！</p>
+<h2 id="参数设置"><a href="#参数设置" class="headerlink" title="参数设置"></a>参数设置</h2><p>主题配置中</p>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">nav:</span></span><br><span class="line">  <span class="attr">logo:</span> <span class="comment">#image</span></span><br><span class="line">  <span class="attr">display_title:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">fixed:</span> <span class="literal">false</span> <span class="comment"># fixed navigation bar</span></span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th>参数</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>logo</td>
+<td>网站的 logo，支持图片，直接填入图片链接</td>
+</tr>
+<tr>
+<td>display_title</td>
+<td>是否显示网站标题，填写 true 或者 false</td>
+</tr>
+<tr>
+<td>fixed</td>
+<td>是否固定状态栏，填写 true 或者 false</td>
+</tr>
+</tbody></table>
+<p>后面的就可以自己去探索了！</p>
+]]></content>
+      <categories>
+        <category>编程</category>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -726,54 +774,6 @@
 </blockquote>
 <p>Hexo会自动合併主题中的 <code>config.yml</code>和 <code>config.butterfly.yml</code>里的配置，如果存在同名配置，会使用 <code>config.butterfly.yml</code>的配置，其优先度较高。</p>
 <p><img src="https://file.crazywong.com/gh/jerryc127/CDN/img/butterfly-docs-install-suggestion-1.png" alt="image-20200805191531090"></p>
-]]></content>
-      <categories>
-        <category>编程</category>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>保姆级Hexo教程3-主题配置</title>
-    <url>/posts/78e8aec1.html</url>
-    <content><![CDATA[<p>好久没有更新文章了，今天来填一下坑</p>
-<h1 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h1><p>修改站点配置文件 <code>_config.yml</code>(注意不是_config.butterfly.yml啊！！！)</p>
-<p>默认语言是 en</p>
-<p>Butterfly主题支持三种语言：</p>
-<ul>
-<li>default(en)</li>
-<li>zh-CN (简体中文)</li>
-<li>zh-TW (繁体中文)</li>
-</ul>
-<p>只要把想要的语言填到 <code>language</code>里就可以了。</p>
-<p><img src="https://s3.uuu.ovh/imgs/2023/06/18/b0070f523b7a289e.png"></p>
-<h1 id="导航栏设置"><a href="#导航栏设置" class="headerlink" title="导航栏设置"></a>导航栏设置</h1><p>注意！！！后面的就是在 <code>_config.butterfly.yml</code>力！！！</p>
-<h2 id="参数设置"><a href="#参数设置" class="headerlink" title="参数设置"></a>参数设置</h2><p>主题配置中</p>
-<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">nav:</span></span><br><span class="line">  <span class="attr">logo:</span> <span class="comment">#image</span></span><br><span class="line">  <span class="attr">display_title:</span> <span class="literal">true</span></span><br><span class="line">  <span class="attr">fixed:</span> <span class="literal">false</span> <span class="comment"># fixed navigation bar</span></span><br></pre></td></tr></table></figure>
-
-<table>
-<thead>
-<tr>
-<th>参数</th>
-<th>解释</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>logo</td>
-<td>网站的 logo，支持图片，直接填入图片链接</td>
-</tr>
-<tr>
-<td>display_title</td>
-<td>是否显示网站标题，填写 true 或者 false</td>
-</tr>
-<tr>
-<td>fixed</td>
-<td>是否固定状态栏，填写 true 或者 false</td>
-</tr>
-</tbody></table>
-<p>后面的就可以自己去探索了！</p>
 ]]></content>
       <categories>
         <category>编程</category>
